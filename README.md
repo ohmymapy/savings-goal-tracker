@@ -4,8 +4,6 @@
 The savings goal tracker is a Python-based GUI application using Tkinter.
 It allows users to create + manage various savings accounts, deposit + withdraw money, while tracking progress towards their financial goals. 
 
-![App Screenshot](screenshot.png)
-
 ## INSTALLATION STEPS:
   ### 1. clone repo
   use the following command: 
@@ -20,3 +18,6 @@ It allows users to create + manage various savings accounts, deposit + withdraw 
 
   ### 4. running application
   ` python3 savings.py  `
+
+## ATTACHED BELOW IS A SCREENSHOT OF WHAT THE APPLICATION SHOULD LOOK LIKE :)
+![App Screenshot](screenshot.png)
